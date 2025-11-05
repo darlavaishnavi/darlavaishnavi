@@ -19,3 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/vaishnavidarla)
 
+![vaishnavi](https://github.com/user-attachments/assets/611adcab-49ee-4812-9982-906b67bb9240)
