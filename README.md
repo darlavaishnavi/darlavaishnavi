@@ -13,6 +13,7 @@
 - **Tools:** Git, GitHub, Jenkins, Docker, Terraform, Ansible  
 - **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda)  
 - **Container Orchestration:** Kubernetes, Minikube  
+![WhatsApp Image 2025-11-05 at 15 10 24_0bf9e3b7](https://github.com/user-attachments/assets/d4691366-dfe4-4f88-b3d8-ee73cd5630c0)
 
 ---
 
