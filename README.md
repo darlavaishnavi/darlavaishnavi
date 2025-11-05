@@ -18,4 +18,4 @@
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/vaishnavidarla)
-![WhatsApp Image 2025-11-05 at 15 10 24_0bf9e3b7](https://github.com/user-attachments/assets/0c801ea3-6d83-4d94-8069-c4c6fb9318d3)
+(https://github.com/user-attachments/assets/0c801ea3-6d83-4d94-8069-c4c6fb9318d3)
